@@ -1,0 +1,22 @@
+{
+  "name": "@mohammad-hassani/is-test",
+  "version": "1.0.1",
+  "description": "is the test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammad-hassani/test.git"
+  },
+  "keywords": [
+    "TEST"
+  ],
+  "author": "mohammad-hassani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohammad-hassani/test/issues"
+  },
+  "homepage": "https://github.com/mohammad-hassani/test#readme"
+}
